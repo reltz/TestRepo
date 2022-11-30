@@ -1,3 +1,3 @@
 function test() {
-  return "test6";
+  return "test7";
 }
